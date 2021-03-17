@@ -1,4 +1,4 @@
 # hello-world
 
-Hi All
+Hi All,
 I am CS50 student.
