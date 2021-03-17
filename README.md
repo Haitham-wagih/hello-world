@@ -1,2 +1,4 @@
-# hello-world
-New Repostiry
+# hello-world!
+
+Hi All :)
+I am Haitham Saad, CS50 student.
